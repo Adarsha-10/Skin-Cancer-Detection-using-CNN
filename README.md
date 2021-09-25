@@ -21,4 +21,5 @@ The data set contains the following diseases:
 ### Note:
 - I haven't used any pre-trained model using Transfer learning. All the model building process should be based on a custom model.
 - This model is trained using Google Colab due to restriction of computation power in loal.
+
 Dataset (Download from below link): Data Imageset Link: https://drive.google.com/file/d/1xLfSQUGDl8ezNNbUkpuHOYvSpTyxVhCs/view

@@ -9,16 +9,16 @@ The dataset consists of 2357 images of malignant and benign oncological diseases
 
 The data set contains the following diseases:
 
-Actinic keratosis
-Basal cell carcinoma
-Dermatofibroma
-Melanoma
-Nevus
-Pigmented benign keratosis
-Seborrheic keratosis
-Squamous cell carcinoma
-Vascular lesion
+- Actinic keratosis
+- Basal cell carcinoma
+- Dermatofibroma
+- Melanoma
+- Nevus
+- Pigmented benign keratosis
+- Seborrheic keratosis
+- Squamous cell carcinoma
+- Vascular lesion
 ### Note:
-I haven't used any pre-trained model using Transfer learning. All the model building process should be based on a custom model.
-This model is trained using Google Colab due to restriction of computation power in loal.
-Dataset (Download from below link): Data Imageset Link: https://drive.google.com/drive/folders/1MzFv-AG-Rjo18sd-aybBbnIEIDJ_4E-h?usp=sharing
+- I haven't used any pre-trained model using Transfer learning. All the model building process should be based on a custom model.
+- This model is trained using Google Colab due to restriction of computation power in loal.
+Dataset (Download from below link): Data Imageset Link: https://drive.google.com/file/d/1xLfSQUGDl8ezNNbUkpuHOYvSpTyxVhCs/view
